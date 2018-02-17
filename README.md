@@ -8,4 +8,4 @@ Preset for Primer CSS scaffolding on new Laravel 5.5 project.
 ## Usage
 1. Fresh install Laravel 5.5.x and `cd` to your app.
 2. Install this preset via `composer require laravel-frontend-presets/primercss`. Laravel 5.5 will automatically discover this package. No need to register the service provider.
-3. Use `php artisan preset primercss` for basic Bulma preset.
+3. Use `php artisan preset primercss` for basic Primer preset.
